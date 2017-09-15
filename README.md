@@ -17,7 +17,7 @@ Repo has following files:
 readme.md
 CodeBook.md - description of variables
 tidydata.txt - a tidy data set
-R_analysis.R - R script 
+run_analysis.R - R script 
 
 
 Instructions for coding:
